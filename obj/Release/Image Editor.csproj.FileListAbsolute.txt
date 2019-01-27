@@ -1,0 +1,14 @@
+D:\C#\Iom_App\Image Editor\Image Editor\bin\Release\Image Editor.exe.manifest
+D:\C#\Iom_App\Image Editor\Image Editor\bin\Release\Image Editor.application
+D:\C#\Iom_App\Image Editor\Image Editor\bin\Release\Image Editor.exe
+D:\C#\Iom_App\Image Editor\Image Editor\bin\Release\Image Editor.pdb
+D:\C#\Iom_App\Image Editor\Image Editor\obj\Release\Image Editor.g.resources
+D:\C#\Iom_App\Image Editor\Image Editor\obj\Release\Image_Editor.Form1.resources
+D:\C#\Iom_App\Image Editor\Image Editor\obj\Release\Image_Editor.Properties.Resources.resources
+D:\C#\Iom_App\Image Editor\Image Editor\obj\Release\Image Editor.csproj.GenerateResource.cache
+D:\C#\Iom_App\Image Editor\Image Editor\obj\Release\Image Editor.csproj.CoreCompileInputs.cache
+D:\C#\Iom_App\Image Editor\Image Editor\obj\Release\Image Editor.exe.manifest
+D:\C#\Iom_App\Image Editor\Image Editor\obj\Release\Image Editor.application
+D:\C#\Iom_App\Image Editor\Image Editor\obj\Release\Image Editor.exe
+D:\C#\Iom_App\Image Editor\Image Editor\obj\Release\Image Editor.pdb
+D:\C#\Iom_App\Image Editor\Image Editor\obj\Release\Image Editor.csprojAssemblyReference.cache

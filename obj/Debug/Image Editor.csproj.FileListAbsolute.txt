@@ -1,0 +1,28 @@
+D:\C#\Iom_App\Image Editor\Image Editor\bin\Debug\Image Editor.exe.manifest
+D:\C#\Iom_App\Image Editor\Image Editor\bin\Debug\Image Editor.application
+D:\C#\Iom_App\Image Editor\Image Editor\bin\Debug\Image Editor.exe
+D:\C#\Iom_App\Image Editor\Image Editor\bin\Debug\Image Editor.pdb
+D:\C#\Iom_App\Image Editor\Image Editor\obj\Debug\Image Editor.g.resources
+D:\C#\Iom_App\Image Editor\Image Editor\obj\Debug\Image_Editor.Form1.resources
+D:\C#\Iom_App\Image Editor\Image Editor\obj\Debug\Image_Editor.Properties.Resources.resources
+D:\C#\Iom_App\Image Editor\Image Editor\obj\Debug\Image Editor.csproj.GenerateResource.cache
+D:\C#\Iom_App\Image Editor\Image Editor\obj\Debug\Image Editor.csproj.CoreCompileInputs.cache
+D:\C#\Iom_App\Image Editor\Image Editor\obj\Debug\Image Editor.exe.manifest
+D:\C#\Iom_App\Image Editor\Image Editor\obj\Debug\Image Editor.application
+D:\C#\Iom_App\Image Editor\Image Editor\obj\Debug\Image Editor.exe
+D:\C#\Iom_App\Image Editor\Image Editor\obj\Debug\Image Editor.pdb
+D:\C#\Iom_App\Image Editor\Image Editor\obj\Debug\Image Editor.csprojAssemblyReference.cache
+D:\C#\Image Editor\Image Editor\bin\Debug\Image Editor.exe.manifest
+D:\C#\Image Editor\Image Editor\bin\Debug\Image Editor.application
+D:\C#\Image Editor\Image Editor\bin\Debug\Image Editor.exe
+D:\C#\Image Editor\Image Editor\bin\Debug\Image Editor.pdb
+D:\C#\Image Editor\Image Editor\obj\Debug\Image Editor.csprojAssemblyReference.cache
+D:\C#\Image Editor\Image Editor\obj\Debug\Image Editor.g.resources
+D:\C#\Image Editor\Image Editor\obj\Debug\Image_Editor.Form1.resources
+D:\C#\Image Editor\Image Editor\obj\Debug\Image_Editor.Properties.Resources.resources
+D:\C#\Image Editor\Image Editor\obj\Debug\Image Editor.csproj.GenerateResource.cache
+D:\C#\Image Editor\Image Editor\obj\Debug\Image Editor.csproj.CoreCompileInputs.cache
+D:\C#\Image Editor\Image Editor\obj\Debug\Image Editor.exe.manifest
+D:\C#\Image Editor\Image Editor\obj\Debug\Image Editor.application
+D:\C#\Image Editor\Image Editor\obj\Debug\Image Editor.exe
+D:\C#\Image Editor\Image Editor\obj\Debug\Image Editor.pdb
